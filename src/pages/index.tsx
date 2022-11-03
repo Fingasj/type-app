@@ -42,11 +42,6 @@ const Home: NextPage = () => {
             description="Authentication for Next.js"
             documentation="https://next-auth.js.org/"
           />
-          <TechnologyCard
-            name="Prisma"
-            description="Build data-driven JavaScript & TypeScript apps in less time"
-            documentation="https://www.prisma.io/docs/"
-          />
         </div>
       </main>
     </>
